@@ -1,1 +1,1 @@
-# C-Indhu-MERN-Stack-Assignment-1
+MERN-Stack-Assignment-1
